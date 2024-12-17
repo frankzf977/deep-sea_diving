@@ -1,0 +1,28 @@
+2023-12-02-21-31-000: CYP27A1.fasta		
+Position	AA(G1)	AA(G2)
+70	Q(1)	R(1)
+
+2023-12-02-21-31-45: APOA4.fasta		
+Position	AA(G1)	AA(G2)
+259	S(1)	R|R|R|R|R|R|R|X|R|R|R|R|R|R|R|R
+
+2023-12-03-17-20-32: HDLBP_pep.fas		
+Position	AA(G1)	AA(G2)
+756	N(1)	S|S|S|S|S|S|S|S|S|S|S|S|S|S|S|S
+761	I(1)	V|V|V|V|V|V|V|V|V|V|V|V|V|V|V|V
+2023-12-02-21-39-000: ELOVL1.fasta		
+Position	AA(G1)	AA(G2)
+69	V(1)	I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I
+
+2023-11-24-19-45-30: ACE.fasta		
+Position	AA(G1)	AA(G2)
+73	Y(1)	-|H|H|-|H|H|H|H|H|H|H|H|H|H|H|H
+799	A(1)	S|S|S|S|S|S|S|S|S|S|S|S|S|S|S|S
+
+2023-11-24-19-45-31: ANPEP.fasta		
+Position	AA(G1)	AA(G2)
+43	C(1)	-|-|-|-|Y|-|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y
+
+2023-11-24-19-45-32: CYP11B2.fasta		
+Position	AA(G1)	AA(G2)
+301	P(1)	L|L|-|L|L|L|L|L|L|L|L|L|L|L|L|L
